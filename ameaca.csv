@@ -1,0 +1,315 @@
+classe,ordem,familia,especie,vernacular,categoria,ano
+Mammalia,Didelphimorphia,Didelphidae,"Marmosops ocellatus (Tate, 1931)",cuíca,NT,2014
+Mammalia,Didelphimorphia,Didelphidae,"Monodelphis iheringi (Thomas, 1888)",catita,NT,2014
+Mammalia,Cetacea,Balaenopteridae,"Megaptera novaeangliae (Borowski, 1781)",jubarte,NT,2014
+Mammalia,Cetacea,Delphinidae,"Sotalia fluviatilis (Gervais & Deville, 1853)",tucuxi,NT,2014
+Mammalia,Primates,Atelidae,"Alouatta caraya (Humboldt, 1812)",bugio-preto,NT,2014
+Mammalia,Primates,Atelidae,"Alouatta puruensis Lönnberg, 1941",guariba,NT,2014
+Mammalia,Primates,Callitrichidae,"Callithrix kuhlii Coimbra-Filho, 1985",sagui-de-wied,NT,2014
+Mammalia,Primates,Callitrichidae,"Mico melanurus (É. Geoffroy em Humboldt, 1812)",sagui-marrom,NT,2014
+Mammalia,Primates,Callitrichidae,"Saguinus martinsi martinsi (Thomas, 1912)",sauim,NT,2014
+Mammalia,Primates,Callitrichidae,"Saguinus martinsi ochraceus Hershkovitz, 1966",sauim,NT,2014
+Mammalia,Primates,Cebidae,"Saimiri ustus I. Geoffroy, 1843",macaco-de-cheiro,NT,2014
+Mammalia,Primates,Cebidae,"Sapajus libidinosus (Spix, 1823)",macaco-prego,NT,2014
+Mammalia,Primates,Cebidae,"Sapajus nigritus cucullatus (Spix, 1823)",macaco-prego,NT,2014
+Mammalia,Primates,Cebidae,"Sapajus nigritus nigritus (Goldfuss, 1809)",macaco-prego,NT,2014
+Mammalia,Primates,Pitheciidae,"Callicebus brunneus (Wagner, 1842)",zogue-zogue,NT,2014
+Mammalia,Primates,Pitheciidae,"Chiropotes albinasus (I. Geoffroy & Deville, 1848)",cuxiú-de-nariz-vermelho,NT,2014
+Mammalia,Carnivora,Mustelidae,"Lontra longicaudis (Olfers, 1818)",lontra,NT,2014
+Mammalia,Chiroptera,Phyllostomidae,"Lonchophylla bokermanni Sazima, Vizotto & Taddei, 1978",morcego,NT,2014
+Mammalia,Rodentia,Caviidae,"Cavia magna Ximenez, 1980",preá,NT,2014
+Mammalia,Rodentia,Cricetidae,"Hyleaamys oniscus (Thomas, 1904)",rato-do-mato,NT,2014
+Mammalia,Rodentia,Cricetidae,"Juliomys rimofrons Oliveira & Bonvicino, 2002",rato-do-mato,NT,2014
+Mammalia,Rodentia,Cricetidae,"Oxymycterus caparaoe Hershkovitz, 1998 ",rato-do-brejo,NT,2014
+Mammalia,Rodentia,Cricetidae,"Reithrodon typicus Waterhouse, 1837",rato-do-mato,NT,2014
+Mammalia,Rodentia,Ctenomyidae,"Ctenomys ibicuiensis Freitas, Fernandes, Fornel & Roratto, 2012",tuco-tuco,NT,2014
+Aves,Tinamiformes,Tinamidae,"Tinamus solitarius (Vieillot, 1819)",macuco,NT,2014
+Aves,Tinamiformes,Tinamidae,"Crypturellus strigulosus (Temminck, 1815)",inhambu-relógio,NT,2014
+Aves,Tinamiformes,Tinamidae,"Crypturellus noctivagus (Wied, 1820)",jaó-do-sul,NT,2014
+Aves,Galliformes,Cracidae,"Aburria cujubi (Pelzeln, 1858)",cujubi,NT,2014
+Aves,Sphenisciformes,Spheniscidae,"Spheniscus magellanicus (Forster, 1781)",pinguim-de-magalhães,NT,2014
+Aves,Procellariiformes,Diomedeidae,"Thalassarche melanophris (Temminck, 1828)",albatroz-de-sobrancelha,NT,2014
+Aves,Procellariiformes,Procellariidae,"Calonectris edwardsii (Oustalet, 1883)",bobo-de-cabo-verde,NT,2014
+Aves,Cathartiformes,Cathartidae,"Sarcoramphus papa (Linnaeus, 1758)",urubu-rei,NT,2014
+Aves,Accipitriformes,Accipitridae,"Buteogallus aequinoctialis (Gmelin, 1788)",caranguejeiro,NT,2014
+Aves,Accipitriformes,Accipitridae,"Pseudastur polionotus (Kaup, 1847)",gavião-pombo-grande,NT,2014
+Aves,Accipitriformes,Accipitridae,"Spizaetus ornatus (Daudin, 1800)",gavião-de-penacho,NT,2014
+Aves,Gruiformes,Psophiidae,"Psophia viridis Spix, 1825",jacamim-das-costas-verdes,NT,2014
+Aves,Gruiformes,Rallidae,"Micropygia schomburgkii (Cabanis, 1848)",maxalalagá,NT,2014
+Aves,Charadriiformes,Haematopodidae,"Haematopus palliatus Temminck, 1820",piru-piru,NT,2014
+Aves,Charadriiformes,Scolopacidae,"Numenius hudsonicus Latham, 1790",maçarico-de-bico-torto,NT,2014
+Aves,Charadriiformes,Scolopacidae,"Arenaria interpres (Linnaeus, 1758)",vira-pedras,NT,2014
+Aves,Charadriiformes,Sternidae,"Gygis alba (Sparmann, 1786)",grazina,NT,2014
+Aves,Caprimulgiformes,Caprimulgidae,"Hydropsalis vielliardi (Lencioni-Neto, 1994)",bacurau-do-são-francisco,NT,2014
+Aves,Caprimulgiformes,Caprimulgidae,"Hydropsalis anomala (Gould, 1838)",curiango-do-banhado,NT,2014
+Aves,Galbuliformes,Galbulidae,"Jacamaralcyon tridactyla (Vieillot, 1817)",cuitelão,NT,2014
+Aves,Galbuliformes,Bucconidae,"Notharchus swainsoni (Gray, 1846)",macuru-de-barriga-castanha,NT,2014
+Aves,Galbuliformes,Bucconidae,"Nystalus torridus Bond & Meyer de Schauensee, 1940",rapazinho-estriado-do-leste,NT,2014
+Aves,Piciformes,Ramphastidae,"Pteroglossus bailloni (Vieillot, 1819)",araçari-banana,NT,2014
+Aves,Piciformes,Ramphastidae,"Pteroglossus bitorquatus Vigors, 1826",araçari-de-pescoço-vermelho,NT,2014
+Aves,Piciformes,Picidae,"Picumnus fuscus Pelzeln, 1870",pica-pau-anão-fusco,NT,2014
+Aves,Falconiformes,Falconidae,"Ibycter americanus (Boddaert, 1783)",gralhão,NT,2014
+Aves,Falconiformes,Falconidae,"Micrastur mintoni Whittaker, 2002",falcão-críptico,NT,2014
+Aves,Psittaciformes,Psittacidae,"Anodorhynchus hyacinthinus (Latham, 1790)",arara-azul-grande,NT,2014
+Aves,Psittaciformes,Psittacidae,"Ara chloropterus Gray, 1859",arara-vermelha-grande,NT,2014
+Aves,Psittaciformes,Psittacidae,"Primolius maracana (Vieillot, 1816)",maracanã-verdadeira,NT,2014
+Aves,Psittaciformes,Psittacidae,"Pyrrhura devillei (Massena & Souancé, 1854)",tiriba-fogo,NT,2014
+Aves,Psittaciformes,Psittacidae,"Pyrrhura lepida anerythra Neumann, 1927",tiriba-pérola-do-xingu,NT,2014
+Aves,Psittaciformes,Psittacidae,"Pyrrhura molinae (Massena & Souancé, 1854)",tiriba-de-cara-suja,NT,2014
+Aves,Psittaciformes,Psittacidae,"Alipiopsitta xanthops (Spix, 1824)",papagaio-galego,NT,2014
+Aves,Psittaciformes,Psittacidae,"Amazona brasiliensis (Linnaeus, 1766)",papagaio-da-cara-roxa,NT,2014
+Aves,Psittaciformes,Psittacidae,"Amazona aestiva (Linnaeus, 1758)",papagaio-verdadeiro,NT,2014
+Aves,Passeriformes,Thamnophilidae,"Formicivora iheringi Hellmayr, 1909",formigueiro-do-nordeste,NT,2014
+Aves,Passeriformes,Thamnophilidae,"Thamnophilus nigrocinereus Sclater, 1855",choca-preta-e-cinza,NT,2014
+Aves,Passeriformes,Thamnophilidae,"Biatas nigropectus (Lafresnaye, 1850)",papo-branco,NT,2014
+Aves,Passeriformes,Thamnophilidae,"Cercomacra brasiliana Hellmayr, 1905",chororó-cinzento,NT,2014
+Aves,Passeriformes,Grallariidae,"Hylopezus ochroleucus (Wied, 1831)",torom-do-nordeste,NT,2014
+Aves,Passeriformes,Dendrocolaptidae,"Drymornis bridgesii (Eyton, 1849)",arapaçu-platino,NT,2014
+Aves,Passeriformes,Dendrocolaptidae,"Dendrocolaptes ridgwayi Hellmayr, 1905",arapaçu-barrado-do-tapajós,NT,2014
+Aves,Passeriformes,Furnariidae,"Cinclodes pabsti Sick, 1969",pedreiro,NT,2014
+Aves,Passeriformes,Furnariidae,"Synallaxis whitneyi Pacheco & Gonzaga, 1995",joão-baiano,NT,2014
+Aves,Passeriformes,Furnariidae,"Synallaxis rutilans omissa Hartert, 1901",joão-teneném-castanho,NT,2014
+Aves,Passeriformes,Furnariidae,"Asthenes luizae Vielliard, 1990",lenheiro-da-serra-do-cipó,NT,2014
+Aves,Passeriformes,Furnariidae,"Limnoctites rectirostris (Gould, 1839)",arredio-do-gravatá,NT,2014
+Aves,Passeriformes,Furnariidae,"Cranioleuca sulphurifera (Burmeister, 1869)",arredio-de-papo-manchado,NT,2014
+Aves,Passeriformes,Onychorhynchidae,"Onychorhynchus swainsoni (Pelzeln, 1858)",maria-leque-do-sudeste,NT,2014
+Aves,Passeriformes,Tityridae,"Laniisoma elegans (Thunberg, 1823)",chibante,NT,2014
+Aves,Passeriformes,Cotingidae,"Lipaugus lanioides (Lesson, 1844)",tropeiro-da-serra,NT,2014
+Aves,Passeriformes,Cotingidae,"Procnias nudicollis (Vieillot, 1817)",araponga,NT,2014
+Aves,Passeriformes,Pipritidae,"Piprites pileata (Temminck, 1822)",caneleirinho-de-chapéu-preto,NT,2014
+Aves,Passeriformes,Platyrinchidae,"Platyrinchus leucoryphus Wied, 1831",patinho-gigante,NT,2014
+Aves,Passeriformes,Tyrannidae,"Euscarthmus rufomarginatus (Pelzeln, 1868)",maria-corruíra,NT,2014
+Aves,Passeriformes,Tyrannidae,"Polystictus pectoralis (Vieillot, 1817)",papa-moscas-canela,NT,2014
+Aves,Passeriformes,Tyrannidae,"Polystictus pectoralis brevipennis (Berlepsch & Hartert, 1902)",papa-moscas-canela,NT,2014
+Aves,Passeriformes,Tyrannidae,"Contopus cooperi (Nuttall, 1831)",piui-boreal,NT,2014
+Aves,Passeriformes,Tyrannidae,"Knipolegus franciscanus Snethlage, 1928",maria-preta-do-nordeste,NT,2014
+Aves,Passeriformes,Hirundinidae,"Pygochelidon melanoleuca (Wied, 1820)",andorinha-de-coleira,NT,2014
+Aves,Passeriformes,Passerelidae,"Arremon franciscanus Raposo, 1997",tico-tico-do-são-francisco,NT,2014
+Aves,Passeriformes,Thraupidae,"Conothraupis speculigera (Gould, 1855)",tié-preto-e-branco,NT,2014
+Aves,Passeriformes,Thraupidae,"Sporophila pileata (Sclater, 1864)",caboclinho-branco,NT,2014
+Aves,Passeriformes,Thraupidae,"Sporophila cinnamomea (Lafresnaye, 1839)",caboclinho-de-chapéu-cinzento,NT,2014
+Reptilia,Testudines,Emydidae,"Trachemys adiutrix Vanzolini, 1995",pininga,NT,2014
+Reptilia,Testudines,Emydidae,"Trachemys dorbigni (Duméril & Bibron, 1835)",tigre-d'água,NT,2014
+Reptilia,Testudines,Podocnemididae,"Podocnemis expansa (Schweigger, 1812)",tartaruga-da-amazônia,NT,2014
+Reptilia,Testudines,Podocnemididae,"Podocnemis sextuberculata Cornalia, 1849",iaçá,NT,2014
+Reptilia,Testudines,Podocnemididae,"Podocnemis unifilis Troschel, 1848",tracajá,NT,2014
+Reptilia,Squamata,Gymnophthalmidae,"Alexandresaurus camacan Rodrigues, Pellegrino, Dixo, Verdade, Pavan, Argôlo & Sites Jr, 2007",calanguinho-do-alexandre,NT,2014
+Reptilia,Squamata,Gymnophthalmidae,"Gymnophthalmus leucomystax Vanzolini & Carvalho, 1991",desconhecido,NT,2014
+Reptilia,Squamata,Gymnophthalmidae,"Psilophthalmus paeminosus Rodrigues, 1991",desconhecido,NT,2014
+Reptilia,Squamata,Tropiduridae,"Tropidurus jaguaribanus Passos, Lima & Borges-Nojosa, 2011","calango, lagartixa",NT,2014
+Reptilia,Squamata,Amphisbanidae,"Amphisbaena carvalhoi Gans, 1965",cobra-de-duas-cabeças,NT,2014
+Reptilia,Squamata,Amphisbanidae,"Amphisbaena heathi Schmidt, 1936",cobra-de-duas-cabeças,NT,2014
+Reptilia,Squamata,Amphisbanidae,"Amphisbaena lumbricalis Vanzolini, 1996",cobra-de-duas-cabeças,NT,2014
+Reptilia,Squamata,Amphisbanidae,"Amphisbaena saxosa (Castro-Mello, 2003)",cobra-de-duas-cabeças,NT,2014
+Reptilia,Squamata,Anomalepididae,"Liotyphlops schubarti Vanzolini, 1948",desconhecido,NT,2014
+Reptilia,Squamata,Dipsadidae,"Phalotris lativittatus Ferrarezzi, 1993",desconhecido,NT,2014
+Reptilia,Squamata,Viperidae,"Bothrops itapetiningae (Boulenger, 1907)",desconhecido,NT,2014
+Amphibia,Anura,Brachycephalidae,"Brachycephalus alipioi Pombal & Gasparini, 2006",desconhecido,NT,2014
+Amphibia,Anura,Brachycephalidae,"Ischnocnema oea (Heyer, 1984)",desconhecido,NT,2014
+Amphibia,Anura,Bufonidae,"Melanophryniscus montevidensis (Philippi, 1902)",desconhecido,NT,2014
+Amphibia,Anura,Bufonidae,"Melanophryniscus spectabilis Caramaschi & Cruz, 2002",desconhecido,NT,2014
+Amphibia,Anura,Ceratophryidae,"Ceratophrys ornata (Bell, 1843)",desconhecido,NT,2014
+Amphibia,Anura,Cycloramphidae,"Crossodactylodes bokermanni Peixoto, 1983",rãzinha-de-bromélia,NT,2014
+Amphibia,Anura,Cycloramphidae,"Cycloramphus bolitoglossus (Werner, 1897)",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Aparasphenodon arapapa Pimenta, Napoli & Haddad, 2009",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Bokermannohyla lucianae (Napoli & Pimenta, 2003)",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Bokermannohyla martinsi (Bokermann, 1964)",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Dendropsophus ruschii (Weygoldt & Peixoto, 1987)",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Hypsiboas poaju Garcia, Peixoto & Haddad, 2008",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Phasmahyla spectabilis Cruz, Feio & Nascimento, 2008",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Phyllodytes brevirostris Peixoto & Cruz, 1988",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Phyllodytes edelmoi Peixoto, Caramaschi & Freire, 2003",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Phyllomedusa centralis Bokermann, 1965",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Scinax angrensis (B. Lutz, 1973)",desconhecido,NT,2014
+Amphibia,Anura,Hylidae,"Scinax ranki (Andrade & Cardoso, 1987)",desconhecido,NT,2014
+Amphibia,Anura,Hylodidae,"Crossodactylus schmidti Gallardo, 1961",desconhecido,NT,2014
+Amphibia,Anura,Hylodidae,"Megaelosia apuana Pombal, Prado & Canedo, 2003",desconhecido,NT,2014
+Amphibia,Anura,Hylodidae,"Megaelosia massarti (Witte, 1930)",rã-de-cachoeira,NT,2014
+Amphibia,Anura,Strabomantidae,"Euparkerella tridactyla Izecksohn, 1988",desconhecido,NT,2014
+Elasmobranchii,Lamniformes,Lamnidae,"Isurus oxyrinchus Rafinesque, 1810",tubarão-anequim,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Carcharhinus acronotus (Poey, 1860)",cação-lombo-preto,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Carcharhinus falciformis (Müller & Henle, 1839)",tubarão-lombo-preto,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Carcharhinus leucas (Müller & Henle, 1839)",cabeça-chata,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Carcharhinus limbatus (Müller & Henle, 1839)",tubarão-galha-preta,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Galeocerdo cuvier (Péron & Lesueur, 1822)",tubarão-tigre,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Prionace glauca (Linnaeus, 1758)",tubarão-azul,NT,2014
+Elasmobranchii,Carcharhiniformes,Carcharhinidae,"Rhizoprionodon lalandii (Müller & Henle, 1839)",cação-frango,NT,2014
+Elasmobranchii,Rajiformes,Arhynchobatidae,"Atlantoraja cyclophora (Regan, 1903)",raia-santa,NT,2014
+Elasmobranchii,Rajiformes,Gymnuridae,"Gymnura micrura (Bloch & Schneider, 1801)",raia-papel,NT,2014
+Elasmobranchii,Rajiformes,Potamotrygonidae,"Plesiotrygon iwamae Rosa, Castello & Thorson, 1987",arraia-chicote,NT,2014
+Elasmobranchii,Rajiformes,Potamotrygonidae,"Potamotrygon leopoldi Castex & Castello, 1970",raia-preta,NT,2014
+Elasmobranchii,Rajiformes,Potamotrygonidae,"Potamotrygon signata Garman, 1913",raia-do-parnaíba,NT,2014
+Actinopterygii,Osteoglossiformes,Osteoglossidae,"Arapaima gigas (Schinz, 1822)",pirarucu,NT,2014
+Actinopterygii,Characiformes,Parodontidae,"Parodon moreirai Ingenito & Buckup, 2005",desconhecido,NT,2014
+Actinopterygii,Characiformes,Anostomidae,"Leporinus bistriatus Britski, 1997",aracu,NT,2014
+Actinopterygii,Characiformes,Anostomidae,"Leporinus melanopleurodes Birindelli, Britski & Garavello, 2013",desconhecido,NT,2014
+Actinopterygii,Characiformes,Anostomidae,"Leporinus taeniofasciatus Britski, 1997",aracu,NT,2014
+Actinopterygii,Characiformes,Anostomidae,"Sartor elongatus Santos & Jégu, 1987",aracu-boca-pra-cima,NT,2014
+Actinopterygii,Characiformes,Anostomidae,"Sartor respectus Myers & Carvalho, 1959",aracu-boca-pra-cima,NT,2014
+Actinopterygii,Characiformes,Serrasalmidae,"Colossoma macropomum (Cuvier, 1816)",tambaqui,NT,2014
+Actinopterygii,Characiformes,Characidae,"Astyanax brachypterygium Bertaco & Malabarba, 2001",lambari-de-cabeceira,NT,2014
+Actinopterygii,Characiformes,Characidae,"Astyanax cremnobates Bertaco & Malabarba, 2001",lambari-de-cabeceira,NT,2014
+Actinopterygii,Characiformes,Characidae,"Cyanocharax tipiaia Malabarba & Weitzman, 2003",desconhecido,NT,2014
+Actinopterygii,Characiformes,Characidae,"Diapoma thauma Menezes & Weitzman, 2011 ",lambari,NT,2014
+Actinopterygii,Characiformes,Characidae,"Hyphessobrycon eilyos Lima & Moreira, 2003","lambari, tetra, piaba",NT,2014
+Actinopterygii,Characiformes,Characidae,"Hyphessobrycon uaiso Carvalho & Langeani, 2013","lambari, piaba",NT,2014
+Actinopterygii,Characiformes,Characidae,"Hysteronotus megalostomus Eigenmann, 1911",piaba,NT,2014
+Actinopterygii,Characiformes,Characidae,"Lignobrycon myersi (Miranda Ribeiro, 1956)",piaba-faca,NT,2014
+Actinopterygii,Characiformes,Characidae,"Mimagoniates rheocharis Menezes & Weitzman, 1990",lambari-azul,NT,2014
+Actinopterygii,Characiformes,Characidae,"Piaractus mesopotamicus (Holmberg, 1887)","caranha, pacu",NT,2014
+Actinopterygii,Characiformes,Characidae,"Probolodus sazimai Santos & Castro, 2014",desconhecido,NT,2014
+Actinopterygii,Characiformes,Characidae,"Salminus franciscanus Lima & Britski, 2007",dourado,NT,2014
+Actinopterygii,Characiformes,Crenuchidae,"Characidium serrano Buckup & Reis, 1997",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Ariidae,"Bagre bagre (Linnaeus, 1758) ",bandeirado,NT,2014
+Actinopterygii,Siluriformes,Doradidae,"Leptodoras marki Birindelli & Sousa, 2010","botinho, reco-reco",NT,2014
+Actinopterygii,Siluriformes,Doradidae,"Leptodoras oyakawai Birindelli, Souza & Pérez, 2008",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Auchenipteridae,"Tocantinsia piresi (Miranda Ribeiro, 1920)",pocomão,NT,2014
+Actinopterygii,Siluriformes,Pimelodidae,"Brachyplatystoma capapretum Lundberg & Akama, 2005",filhote-da-capa-preta,NT,2014
+Actinopterygii,Siluriformes,Pimelodidae,"Luciopimelodus pati (Valenciennes, 1835)",pati,NT,2014
+Actinopterygii,Siluriformes,Pimelodidae,"Pseudoplatystoma corruscans (Spix & Agassiz, 1829)",pintado,NT,2014
+Actinopterygii,Siluriformes,Pimelodidae,"Zungaro jahu (Ihering, 1898)",jau,NT,2014
+Actinopterygii,Siluriformes,Pseudopimelodidae,"Microglanis malabarbai Bertaco & Cardoso, 2005",bagrinho-malhado,NT,2014
+Actinopterygii,Siluriformes,Heptapteridae,"Phenacorhamdia unifasciata Britski, 1993",bagrinho,NT,2014
+Actinopterygii,Siluriformes,Heptapteridae,"Rhamdiopsis microcephala (Lütken, 1874)",bagre,NT,2014
+Actinopterygii,Siluriformes,Cetopsidae,"Cetopsidium ferreirai Vari, Ferraris & de Pinna, 2005",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Copionodon lianae Campanario & de Pinna, 2000",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Copionodon orthiocarinatus de Pinna, 1992",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Copionodon pecten de Pinna, 1992",gerino,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Homodiaetus banguela Koch, 2002",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Homodiaetus passarellii (Miranda Ribeiro, 1944)",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Ituglanis macunaima Datovo & Landim, 2005",cambeva,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Listrura picinguabae Villa-Verde & Costa, 2006",cambeva-minhoca-de-picinguaba,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Microcambeva barbata Costa & Bockmann, 1994",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Microcambeva ribeirae Costa, Lima & Bizerril, 2004",microcambeva,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Trichogenes longipinnis Britski & Ortega, 1983",cambeva-da-cachoeira,NT,2014
+Actinopterygii,Siluriformes,Trichomycteridae,"Trichomycterus perkos Datovo, Carvalho & Ferrer, 2012",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Callichthyidae,"Lepthoplosternum tordilho Reis, 1997",tamboatá,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Ancistrus parecis Fisch-Muller, Cardoso, da Silva & Bertaco, 2005",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Ancistrus ranunculus Muller, Rapp Py-Daniel & Zuanon, 1994",cascudo-preto-velho,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Baryancistrus xanthellus Rapp Py-Daniel, Zuanon & Oliveira, 2011",amarelinho,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Harttia garavelloi Oyakawa, 1993",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Harttia gracilis Oyakawa, 1993",cascudo-rabo-seco-do-paraná,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Harttia uatumensis Rapp Py-Daniel & Oliveira, 2001",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hemiancistrus chlorostictus Cardoso & Malabarba, 1999",cascudo,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hemiancistrus micrommatos Cardoso & Lucinda, 2003",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hemiancistrus spinosissimus Cardoso & Lucinda, 2003",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hemipsilichthys nimius Pereira, Reis, Souza & Lazzarotto, 2003",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hemipsilichthys papillatus Pereira, Oliveira & Oyakawa, 2000",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Hisonotus megaloplax Carvalho & Reis, 2009",cascudinho,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Lampiella gibbosa (Miranda Ribeira, 1908)",pituva,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Leporacanthicus heterodon Isbrücker & Nijssen, 1989",acari-onça,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Neoplecostomus espiritosantensis Langeani, 1990",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Parancistrus aurantiacus (Castelnau, 1855)",acari,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pareiorhaphis cameroni (Steindachner, 1907)",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pareiorhaphis garbei Ihering, 1911",cascudo,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pareiorhaphis stomias Pereira & Reis, 2002",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pareiorhina brachyrhyncha Chamon, Aranda & Buckup, 2005",cascudo,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pareiorhina rudolphi (Miranda Ribeiro, 1911)",cascudinho,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Plesioptopoma curvidens Reis, Pereira & Lehmann A., 2012",cascudinho,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pseudotocinclus parahybae Takako, Oliveira & Oyakawa, 2005",cascudinho-do-paraíba,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Pseudotothyris janeirensis Britski & Garavello, 1984",desconhecido,NT,2014
+Actinopterygii,Siluriformes,Loricariidae,"Rhinelepis aspera Spix & Agassiz, 1829",acari-roncador,NT,2014
+Actinopterygii,Gymnotiformes,Sternopygidae,"Archolaemus santosi Vari, de Santana & Wosiacki, 2012",desconhecido,NT,2014
+Actinopterygii,Gymnotiformes,Apteronotidae,"Sternarchorhynchus axelrodi de Santana & Vari, 2010",desconhecido,NT,2014
+Actinopterygii,Gymnotiformes,Gymnotidae,"Gymnotus chimarrao Cognato, Richer-de-Forges, Albert & Crampton, 2007",carapo,NT,2014
+Actinopterygii,Gadiformes,Phycidae,"Urophycis brasiliensis Kaup, 1858",abrótea,NT,2014
+Actinopterygii,Gadiformes,Phycidae,"Urophycis mystacea Miranda Ribeiro, 1903",abrótea-de-fundo,NT,2014
+Actinopterygii,Gadiformes,Merluciidae,"Merluccius hubbsi Marini, 1933",merluza,NT,2014
+Actinopterygii,Ophidiiformes,Ophidiidae,"Genypterus brasiliensis (Regan, 1903)",congro-rosa,NT,2014
+Actinopterygii,Ophidiiformes,Bythitidae,"Stygnobrotula latebricola (Böhlke, 1957)",brótula-negra,NT,2014
+Actinopterygii,Lophiiformes,Lophiidae,"Lophius gastrophysus Miranda Ribeiro, 1915",peixe-sapo,NT,2014
+Actinopterygii,Atheriniformes,Atherinopsidae,"Membras dissimilis (Carvalho, 1956)",peixe-rei-membra,NT,2014
+Actinopterygii,Atheriniformes,Atherinopsidae,"Odontesthes ledae Malabarba & Dyer, 2002",peixe-rei,NT,2014
+Actinopterygii,Atheriniformes,Atherinopsidae,"Odontesthes piquava Malabarba & Dyer, 2002",peixe-rei,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Atlantirivulus depressus (Costa, 1991)",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Atlantirivulus janeiroensis (Costa, 1991)",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Atlantirivulus jurubatibensis (Costa, 2008)",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Hypsolebias gilbertobrasili Costa, 2012",desconhecido,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Kryptolebias hermaphroditus Costa, 2011",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Kryptolebias ocellatus (Hensel, 1868)",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Melanorivulus decoratus (Costa, 1989)",peixe-anual,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Melanorivulus kayabi (Costa, 2007) ",desconhecido,NT,2014
+Actinopterygii,Cyprinodontiformes,Rivulidae,"Melanorivulus violaceus (Costa, 1991)",desconhecido,NT,2014
+Actinopterygii,Cyprinodontiformes,Poeciliidae,"Cnesterodon septentrionalis Rosa & Costa, 1993",barrigudinho,NT,2014
+Actinopterygii,Cyprinodontiformes,Poeciliidae,"Phalloceros ocellatus Lucinda, 2008",desconhecido,NT,2014
+Actinopterygii,Cyprinodontiformes,Poeciliidae,"Phalloptychus iheringii (Boulenger, 1889)",barrigudinho-riscado,NT,2014
+Actinopterygii,Cyprinodontiformes,Poeciliidae,"Phallotorynus victoriae Oliveros, 1983","barrigudinho, guaru",NT,2014
+Actinopterygii,Beloniformes,Hemiramphidae,"Hyporhamphus unifasciatus Ranzani, 1842",agulhinha-branca,NT,2014
+Actinopterygii,Perciformes,Grammatidae,"Gramma brasiliensis Sazima, Gasparini & Moura, 1998",grama,NT,2014
+Actinopterygii,Perciformes,Pomatomidae,"Pomatomus saltatrix (Linnaeus, 1766)",anchova-marisqueira,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Lutjanus analis (Cuvier, 1828)",cioba,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Lutjanus jocu (Bloch & Schneider, 1801)",dentão,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Lutjanus synagris (Linnaeus, 1758)",ariocó,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Lutjanus vivanus (Cuvier, 1828)",pargo-olho-de-vidro,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Ocyurus chrysurus (Bloch, 1791)",guaiúba,NT,2014
+Actinopterygii,Perciformes,Lutjanidae,"Rhomboplites aurorubens (Cuvier, 1829)",realito,NT,2014
+Actinopterygii,Perciformes,Sciaenidae,"Cynoscion acoupa (Lacepède, 1800)",pescada-amarela,NT,2014
+Actinopterygii,Perciformes,Sciaenidae,"Pachyurus francisci (Cuvier, 1830)",corvina,NT,2014
+Actinopterygii,Perciformes,Sciaenidae,"Pachyurus paucirastrus Aguilera, 1983",corvina,NT,2014
+Actinopterygii,Perciformes,Mugilidae,"Mugil liza Valenciennes, 1836",tainha,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Crenicichla gaucho Lucena & Kullander, 1992",joana,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Crenicichla igara Lucena & Kullander, 1992",joaninha,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Crenicichla jurubi Lucena & Kullander, 1992",joaninha,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Crenicichla percna Kullander, 1991",desconhecido,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Crenicichla prenda Lucena & Kullander, 1992",joana,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Gymnogeophagus lacustris Reis & Malabarba, 1988",cará,NT,2014
+Actinopterygii,Perciformes,Cichlidae,"Teleocichla proselytus Kullander, 1988",joaninha-da-pedra,NT,2014
+Actinopterygii,Perciformes,Labridae,"Sparisoma amplum (Ranzani, 1842)",bodião,NT,2014
+Actinopterygii,Perciformes,Pinguipedidae,"Pseudopercis numida Miranda Ribeiro, 1903",namorado,NT,2014
+Actinopterygii,Perciformes,Eleotridae,"Dormitator maculatus (Bloch, 1792)",dorminhoco,NT,2014
+Actinopterygii,Perciformes,Scombridae,"Thunnus obesus (Lowe, 1839)",albacora-bandolim,NT,2014
+Actinopterygii,Perciformes,Xiphiidae,"Xiphias gladius Linnaeus, 1758",espadarte,NT,2014
+Actinopterygii,Pleuronectiformes,Paralichthyidae,"Paralichthys patagonicus Jordan, 1889",linguado-branco,NT,2014
+Actinopterygii,Tetraodontiformes,Balistidae,"Balistes capriscus Gmelin, 1789",peroá/peixe-porco,NT,2014
+Actinopterygii,Tetraodontiformes,Balistidae,"Balistes vetula Linnaeus, 1758",cangulo-rei,NT,2014
+Actinopterygii,Tetraodontiformes,Monacanthidae,"Aluterus monoceros (Linnaeus, 1758)",peixe-porco,NT,2014
+Insecta,Lepidoptera,Sphingidae,"Manduca guennei (Clark, 1932)",mariposa,NT,2014
+Insecta,Hymenoptera,Apidae,"Geotrigona xanthopoda Camargo & Moure, 1996",abelha,NT,2014
+Insecta,Hymenoptera,Apidae,"Partamona sooretamae Pedro & Camargo, 2003",abelha,NT,2014
+Insecta,Hymenoptera,Formicidae,"Acromyrmex diasi Gonçalves, 1983",quenquém,NT,2014
+Insecta,Hymenoptera,Formicidae,"Neoponera schultzi (Mackay & Mackay, 2010)",formiga,NT,2014
+Insecta,Hymenoptera,Formicidae,"Stigmatomma agostii (Lacau & Delabie, 2002)",formiga,NT,2014
+Insecta,Hymenoptera,Formicidae,"Typhlomyrmex meire Lacau, Villemant & Delabie, 2004",formiga,NT,2014
+Insecta,Coleoptera,Scarabaeidae,"Dynastes hercules paschoali Grossi & Arnaud, 1993",besouro-de-chifre,NT,2014
+Insecta,Coleoptera,Scarabaeidae,"Ontherus irinus Balthasar, 1938",besouro-rola-bosta,NT,2014
+Insecta,Coleoptera,Scarabaeidae,"Oxysternon pteroderum Nevinson, 1892",besouro-rola-bosta,NT,2014
+Insecta,Ephemeroptera,Baetidae,"Camelobaetidius juparana Boldrini & Salles, 2012",siriruia,NT,2014
+Insecta,Ephemeroptera,Leptophlebiidae,"Traverella insolita Nascimento & Salles, 2013",siriruia,NT,2014
+Insecta,Anisoptera,Libellulidae,"Erythrodiplax luteofrons Santos, 1956",libélula,NT,2014
+Insecta,Zygoptera,Coenagrionidae,"Epipleoneura haroldoi Santos, 1964",libélula,NT,2014
+Insecta,Zygoptera,Coenagrionidae,"Leptagrion dispar Selys, 1876",libélula,NT,2014
+Insecta,Zygoptera,Coenagrionidae,"Oxyagrion sulinum Costa, 1978",libélula,NT,2014
+Insecta,Zygoptera,Coenagrionidae,"Telebasis paraensei Machado, 1956",libélula,NT,2014
+Malacostraca,Decapoda,Aeglidae,"Aegla muelleri Bond-Buckup & Buckup, 2010",egla,NT,2014
+Malacostraca,Decapoda,Aeglidae,"Aegla prado Schmitt, 1942",egla,NT,2014
+Malacostraca,Decapoda,Atyidae,"Atya scabra (Leach, 1815)",camarão-cavalo,NT,2014
+Malacostraca,Decapoda,Geryonidae,"Chaceon ramosae Tavares & Albuquerque, 1989",caranguejo-real,NT,2014
+Malacostraca,Decapoda,Ocypodidae,"Uca uruguayensis Nobili, 1901",chama-maré,NT,2014
+Malacostraca,Decapoda,Ocypodidae,"Uca victoriana Von Hagen, 1987",chama-maré,NT,2014
+Malacostraca,Decapoda,Palinuridae,"Panulirus argus (Herbst, 1904)",lagosta-vermelha,NT,2014
+Malacostraca,Decapoda,Palinuridae,"Panulirus laevicauda (Latreille, 1817)",lagosta-verde,NT,2014
+Malacostraca,Decapoda,Ucididae,"Ucides cordatus (Linnaeus, 1763)",caranguejo-uçá,NT,2014
+Malacostraca,Decapoda,Varunidae,"Neohelice granulata (Dana, 1851)",caranguejo,NT,2014
+Diplopoda,Polydesmida,Fuhrmannodesmidae,"Phaneromerium cavernicolum Golovatch & Wytwer, 2004",piolho-de-cobra,NT,2014
+Arachnida,Araneae,Corinnidae,"Ianduba caxixe Bonaldo, 1997",aranha-formiga,NT,2014
+Arachnida,Araneae,Theraphosidae,"Iridopelma hirsutum Pocock, 1901",aranha-caranguejeira,NT,2014
+Arachnida,Araneae,Theraphosidae,"Iridopelma zorodes (Mello-Leitão, 1926)",aranha-caranguejeira,NT,2014
+Arachnida,Araneae,Theraphosidae,"Pterinopelma vitiosum (Keyserling, 1891)",aranha-caranguejeira,NT,2014
+Arachnida,Araneae,Theraphosidae,"Tmesiphantes amadoi Yamamoto, Lucas, Guadanucci & Indicatti, 2007",aranha-caranguejeira,NT,2014
+Arachnida,Araneae,Theraphosidae,"Tmesiphantes bethaniae Yamamoto, Lucas, Guadanucci & Indicatti, 2007",aranha-caranguejeira,NT,2014
+Arachnida,Araneae,Theraphosidae,"Typhochlaena amma Bertani, 2012",aranha-caranguejeira,NT,2014
+Arachnida,Schizomida,Hubbardiidae,"Rowlandius potiguar Santos, Ferreira & Buzatto, 2013",escorpião-chicote-de-cauda-curta,NT,2014
+Arachnida,Scorpiones,Buthidae,"Tityus kuryi Lourenço & da Silva, 2007",escorpião,NT,2014
+Onychophora,Euonychophora,Peripatidae,"Epiperipatus acacioi (Marcus & Marcus, 1955)",peripatos,NT,2014
+Bivalvia,Unionoida,Hyriidae,"Castalia martensi (Ihering, 1981)",marisco-de-água-doce,NT,2014
+Bivalvia,Unionoida,Hyriidae,"Diplodon (Rhipidodonta) garbei (Ihering, 1910)",marisco-de-água-doce,NT,2014
+Bivalvia,Unionoida,Hyriidae,"Diplodon (Rhipidodonta) iheringi Simpson, 1914",marisco-barrigudinho,NT,2014
+Bivalvia,Unionoida,Hyriidae,"Diplodon fontainianus d´Orbigny, 1835",marisco-de-água-doce,NT,2014
+Bivalvia,Unionoida,Hyriidae,"Diplodon martensi (Ihering, 1893)",marisco-de-água-doce,NT,2014
+Bivalvia,Unionoida,Mycetopodidae,"Anodontites ferrarisii (d´Orbigny, 1835)",abalone-redondo,NT,2014
+Bivalvia,Unionoida,Mycetopodidae,"Anodontites iheringi (Clessin, 1882)",alongado-rajado,NT,2014
+Bivalvia,Unionoida,Mycetopodidae,"Bartlettia stefanensis (Moricand, 1856)",ostra-de-rio,NT,2014
+Bivalvia,Unionoida,Mycetopodidae,"Haasica balzani (Ihering, 1893)",marisco-de-água-doce,NT,2014
+Gastropoda,Littorinimorpha,Cassidae,"Cassis tuberosa (Linnaeus, 1758)",desconhecido,NT,2014
+Gastropoda,Neogastropoda,Olividae,"Olivancillaria vesica vesica (Gmelin, 1791)",desconhecido,NT,2014
+Gastropoda,Pulmonata,Bulimulidae,"Anthinus henselii (Martens, 1868)",caracol,NT,2014
